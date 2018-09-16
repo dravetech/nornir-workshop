@@ -1,0 +1,324 @@
+2018-09-15 16:42:21,429 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-15 16:42:21,429 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-15 16:42:21,429 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-15 16:42:21,429 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-15 16:42:21,434 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-15 16:42:21,434 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-15 16:42:21,435 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-15 16:42:21,435 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-15 16:42:21,434 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-15 16:42:21,434 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-15 16:42:21,435 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-15 16:42:21,435 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-15 16:42:45,256 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-15 16:42:45,256 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-15 16:42:45,256 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-15 16:42:45,256 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-15 16:42:45,259 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-15 16:42:45,259 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-15 16:42:45,260 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-15 16:42:45,260 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-15 16:42:45,259 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-15 16:42:45,259 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-15 16:42:45,260 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-15 16:42:45,260 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-15 17:14:49,761 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-15 17:14:49,761 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-15 17:14:49,762 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-15 17:14:49,762 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-15 17:14:49,766 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-15 17:14:49,766 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-15 17:14:49,767 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-15 17:14:49,767 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-15 17:14:49,766 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-15 17:14:49,766 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-15 17:14:49,767 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-15 17:14:49,767 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-15 17:15:27,414 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-15 17:15:27,414 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-15 17:15:27,414 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-15 17:15:27,414 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-15 17:15:27,419 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-15 17:15:27,419 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-15 17:15:27,419 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-15 17:15:27,419 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-15 17:15:27,419 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-15 17:15:27,419 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-15 17:15:27,419 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-15 17:15:27,419 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-15 17:31:00,366 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-15 17:31:00,366 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-15 17:31:00,369 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-15 17:31:00,369 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-15 17:31:00,373 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-15 17:31:00,373 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-15 17:31:00,373 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-15 17:31:00,373 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-15 17:31:00,373 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-15 17:31:00,373 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-15 17:31:00,373 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-15 17:31:00,373 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-15 17:42:20,479 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-15 17:42:20,479 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-15 17:42:20,480 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-15 17:42:20,480 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-15 17:42:20,484 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-15 17:42:20,484 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-15 17:42:20,485 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-15 17:42:20,485 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-15 17:42:20,484 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-15 17:42:20,484 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-15 17:42:20,485 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-15 17:42:20,485 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-15 17:42:33,491 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-15 17:42:33,491 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-15 17:42:33,491 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-15 17:42:33,491 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-15 17:42:33,497 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-15 17:42:33,497 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-15 17:42:33,497 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-15 17:42:33,497 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-15 17:42:33,497 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-15 17:42:33,497 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-15 17:42:33,497 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-15 17:42:33,497 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-15 17:42:45,915 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-15 17:42:45,915 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-15 17:42:45,915 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-15 17:42:45,915 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-15 17:42:45,920 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-15 17:42:45,920 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-15 17:42:45,920 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-15 17:42:45,920 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-15 17:42:45,920 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-15 17:42:45,920 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-15 17:42:45,920 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-15 17:42:45,920 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-15 17:43:59,633 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-15 17:43:59,633 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-15 17:43:59,634 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-15 17:43:59,634 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-15 17:43:59,639 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-15 17:43:59,639 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-15 17:43:59,639 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-15 17:43:59,639 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-15 17:43:59,639 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-15 17:43:59,639 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-15 17:43:59,639 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-15 17:43:59,639 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-15 17:44:49,552 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-15 17:44:49,552 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-15 17:44:49,552 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-15 17:44:49,552 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-15 17:44:49,556 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-15 17:44:49,556 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-15 17:44:49,556 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-15 17:44:49,556 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-15 17:44:49,556 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-15 17:44:49,556 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-15 17:44:49,556 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-15 17:44:49,556 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-15 17:45:10,354 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-15 17:45:10,354 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-15 17:45:10,354 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-15 17:45:10,354 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-15 17:45:10,358 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-15 17:45:10,358 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-15 17:45:10,358 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-15 17:45:10,358 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-15 17:45:10,358 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-15 17:45:10,358 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-15 17:45:10,358 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-15 17:45:10,358 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-15 17:45:35,896 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-15 17:45:35,896 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-15 17:45:35,896 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-15 17:45:35,896 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-15 17:45:35,900 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-15 17:45:35,900 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-15 17:45:35,900 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-15 17:45:35,900 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-15 17:45:35,900 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-15 17:45:35,900 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-15 17:45:35,900 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-15 17:45:35,900 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-15 17:46:10,474 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-15 17:46:10,474 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-15 17:46:10,475 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-15 17:46:10,475 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-15 17:46:10,479 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-15 17:46:10,479 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-15 17:46:10,480 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-15 17:46:10,480 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-15 17:46:10,480 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-15 17:46:10,480 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-15 17:46:10,480 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-15 17:46:10,480 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-15 17:51:59,857 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-15 17:51:59,857 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-15 17:51:59,857 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-15 17:51:59,857 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-15 17:51:59,861 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-15 17:51:59,861 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-15 17:51:59,861 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-15 17:51:59,861 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-15 17:51:59,861 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-15 17:51:59,861 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-15 17:51:59,861 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-15 17:51:59,861 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-15 18:07:32,146 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-15 18:07:32,146 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-15 18:07:32,147 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-15 18:07:32,147 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-15 18:07:32,152 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-15 18:07:32,152 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-15 18:07:32,152 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-15 18:07:32,152 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-15 18:07:32,152 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-15 18:07:32,152 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-15 18:07:32,152 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-15 18:07:32,152 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-16 10:41:12,275 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-16 10:41:12,275 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-16 10:41:12,276 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-16 10:41:12,276 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-16 10:41:12,282 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-16 10:41:12,282 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-16 10:41:12,282 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-16 10:41:12,282 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-16 10:41:12,282 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-16 10:41:12,282 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-16 10:41:12,282 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-16 10:41:12,282 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-16 11:02:34,806 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-16 11:02:34,806 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-16 11:02:34,807 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-16 11:02:34,807 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-16 11:02:34,812 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-16 11:02:34,812 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-16 11:02:34,812 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-16 11:02:34,812 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-16 11:02:34,812 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-16 11:02:34,812 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-16 11:02:34,812 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-16 11:02:34,812 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-16 11:10:08,592 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-16 11:10:08,592 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-16 11:10:08,593 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-16 11:10:08,593 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-16 11:10:08,598 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-16 11:10:08,598 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-16 11:10:08,598 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-16 11:10:08,598 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-16 11:10:08,598 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-16 11:10:08,598 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-16 11:10:08,598 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-16 11:10:08,598 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-16 11:17:19,046 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-16 11:17:19,046 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-16 11:17:19,046 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-16 11:17:19,046 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-16 11:17:19,052 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-16 11:17:19,052 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-16 11:17:19,052 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-16 11:17:19,052 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-16 11:17:19,052 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-16 11:17:19,052 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-16 11:17:19,052 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-16 11:17:19,052 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-16 11:19:27,772 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-16 11:19:27,772 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-16 11:19:27,772 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-16 11:19:27,772 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-16 11:19:27,776 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-16 11:19:27,777 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-16 11:19:27,777 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-16 11:19:27,777 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-16 11:19:27,776 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-16 11:19:27,777 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-16 11:19:27,777 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-16 11:19:27,777 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-16 11:22:50,859 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-16 11:22:50,859 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-16 11:22:50,859 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-16 11:22:50,859 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-16 11:22:50,864 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-16 11:22:50,864 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-16 11:22:50,864 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-16 11:22:50,864 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-16 11:22:50,864 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-16 11:22:50,864 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-16 11:22:50,864 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-16 11:22:50,864 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-16 11:27:40,981 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-16 11:27:40,981 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-16 11:27:40,981 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-16 11:27:40,981 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-16 11:27:40,985 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-16 11:27:40,986 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-16 11:27:40,986 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-16 11:27:40,986 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-16 11:27:40,985 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-16 11:27:40,986 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-16 11:27:40,986 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-16 11:27:40,986 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-16 11:37:54,634 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-16 11:37:54,634 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-16 11:37:54,636 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-16 11:37:54,636 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-16 11:37:54,641 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-16 11:37:54,641 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-16 11:37:54,641 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-16 11:37:54,641 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-16 11:37:54,641 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-16 11:37:54,641 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-16 11:37:54,641 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-16 11:37:54,641 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-16 11:41:46,497 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-16 11:41:46,497 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-16 11:41:46,499 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-16 11:41:46,499 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-16 11:41:46,504 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-16 11:41:46,504 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-16 11:41:46,504 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-16 11:41:46,504 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-16 11:41:46,504 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-16 11:41:46,504 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-16 11:41:46,504 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-16 11:41:46,504 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-16 11:46:37,738 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-16 11:46:37,738 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-16 11:46:37,738 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-16 11:46:37,738 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-16 11:46:37,742 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-16 11:46:37,742 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-16 11:46:37,743 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-16 11:46:37,743 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-16 11:46:37,742 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-16 11:46:37,742 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-16 11:46:37,743 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-16 11:46:37,743 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-16 11:47:16,399 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-16 11:47:16,399 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-16 11:47:16,400 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-16 11:47:16,400 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-16 11:47:16,404 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-16 11:47:16,405 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-16 11:47:16,405 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-16 11:47:16,405 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-16 11:47:16,404 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-16 11:47:16,405 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-16 11:47:16,405 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-16 11:47:16,405 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-16 15:25:58,219 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-16 15:25:58,219 -       nornir -     INFO -        run() - Running task 'command' with num_workers: 20
+2018-09-16 15:25:58,219 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-16 15:25:58,219 -       nornir -    DEBUG -        run() - {'command': 'echo Hi!'}
+2018-09-16 15:25:58,225 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-16 15:25:58,225 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-16 15:25:58,225 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-16 15:25:58,225 -       nornir -     INFO -      start() - leaf01.bma: command: running task
+2018-09-16 15:25:58,225 -       nornir -     INFO -      start() - spine00.bma: command: running task
+2018-09-16 15:25:58,225 -       nornir -     INFO -      start() - spine01.bma: command: running task
+2018-09-16 15:25:58,225 -       nornir -     INFO -      start() - leaf00.bma: command: running task
+2018-09-16 15:25:58,225 -       nornir -     INFO -      start() - leaf01.bma: command: running task

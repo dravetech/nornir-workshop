@@ -1,0 +1,32 @@
+.rendered_html ul:not(.list-inline), .rendered_html ol:not(.list-inline) {
+	padding-left: inherit;
+}
+
+.reveal li {
+	padding-top: 0.3em
+}
+
+.reveal ol li {
+    padding-left: 1em;
+}
+
+.reveal ol {
+    margin-top: 0;
+    margin: 0 0 0 2em;
+}
+
+.rendered_html ul {
+    list-style: none;
+}
+
+div.prompt {
+	font-size :0%;
+}
+
+div.output_area pre {
+	font-size: 60%;
+}
+
+.reveal pre {
+	font-size: 60%;
+}

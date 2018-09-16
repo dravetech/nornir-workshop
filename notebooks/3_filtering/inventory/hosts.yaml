@@ -1,0 +1,122 @@
+---
+spine00.bma:
+    # well-known attributes; hostname, username, password, platform and port
+    hostname: spine00.bma.acme.com
+    platform: junos
+
+    groups: # group membership
+        - bma
+        - junos
+
+    data:  # user-defined data
+        site: bma
+        role: spine
+        region: EU
+        system:
+            image: 17.2R2   # image version
+            uptime: 100     # in days, somehow the inventory knows this
+
+spine01.bma:
+    hostname: spine01.bma.acme.com
+    platform: eos
+    groups:
+        - bma
+        - eos
+    data:
+        site: bma
+        role: spine
+        region: EU
+        system:
+            image: 4.19.4M
+            uptime: 100
+
+leaf00.bma:
+    hostname: leaf00.bma.acme.com
+    platform: junos
+    groups:
+        - bma
+        - junos
+    data:
+        site: bma
+        role: leaf
+        region: EU
+        asn: 65110
+        system:
+            image: 14.1X53-D46
+            uptime: 20
+
+leaf01.bma:
+    hostname: leaf01.bma.acme.com
+    platform: eos
+    groups:
+        - bma
+        - eos
+    data:
+        site: bma
+        role: leaf
+        region: EU
+        asn: 65111
+        system:
+            image: 4.17.4M
+            uptime: 30
+
+spine00.cmh:
+    hostname: spine00.cmh.acme.com
+    platform: junos
+    groups:
+        - cmh
+        - junos
+    data:
+        site: cmh
+        role: spine
+        region: NA
+        system:
+            image: 17.2R1
+            uptime: 20
+
+spine01.cmh:
+    hostname: spine01.cmh.acme.com
+    platform: ios
+    groups:
+        - cmh
+        - eos
+    data:
+        site: cmh
+        role: spine
+        region: NA
+        system:
+            image: 12.3SX
+            uptime: 50
+
+leaf00.cmh:
+    hostname: leaf00.cmh.acme.com
+    platform: junos
+    groups:
+        - cmh
+        - junos
+    data:
+        site: cmh
+        role: leaf
+        region: NA
+        asn: 65211
+        system:
+            image: 14.1X53-D46
+            uptime: 60
+
+leaf01.cmh:
+    hostname: leaf01.cmh.acme.com
+    username:
+    password:
+    port:
+    platform: ios
+    groups:
+        - cmh
+        - ios
+    data:
+        site: bma
+        role: leaf
+        region: NA
+        asn: 65211
+        system:
+            image: 12.3SX
+            uptime: 30

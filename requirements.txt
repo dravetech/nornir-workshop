@@ -1,0 +1,4 @@
+jupyter
+nbval
+pytest
+-e git+git://github.com/nornir-automation/nornir.git@e3feae4108d8c85589606a99061c96a54b305ef0#egg=nornir

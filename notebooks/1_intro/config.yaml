@@ -1,0 +1,7 @@
+---
+num_workers: 20
+inventory:
+    options:
+        host_file: 1_intro/inventory/hosts.yaml
+        group_file: 1_intro/inventory/groups.yaml
+        defaults_file: 1_intro/inventory/defaults.yaml

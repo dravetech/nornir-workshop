@@ -1,0 +1,98 @@
+---
+spine00.bma:
+    # well-known attributes; hostname, username, password, platform and port
+    hostname: spine00.bma.acme.com
+    platform: junos
+
+    groups: # group membership
+        - bma
+        - junos
+
+    data:  # user-defined data
+        site: bma
+        role: spine
+        region: EU
+
+spine01.bma:
+    hostname: spine01.bma.acme.com
+    platform: eos
+    groups:
+        - bma
+        - eos
+    data:
+        site: bma
+        role: spine
+        region: EU
+
+leaf00.bma:
+    hostname: leaf00.bma.acme.com
+    platform: junos
+    groups:
+        - bma
+        - junos
+    data:
+        site: bma
+        role: leaf
+        region: EU
+        asn: 65110
+
+leaf01.bma:
+    hostname: leaf01.bma.acme.com
+    platform: eos
+    groups:
+        - bma
+        - eos
+    data:
+        site: bma
+        role: leaf
+        region: EU
+        asn: 65111
+
+spine00.cmh:
+    hostname: spine00.cmh.acme.com
+    platform: junos
+    groups:
+        - cmh
+        - junos
+    data:
+        site: cmh
+        role: spine
+        region: NA
+
+spine01.cmh:
+    hostname: spine01.cmh.acme.com
+    platform: eos
+    groups:
+        - cmh
+        - eos
+    data:
+        site: cmh
+        role: spine
+        region: NA
+
+leaf00.cmh:
+    hostname: leaf00.cmh.acme.com
+    platform: junos
+    groups:
+        - cmh
+        - junos
+    data:
+        site: cmh
+        role: leaf
+        region: NA
+        asn: 65211
+
+leaf01.cmh:
+    hostname: leaf01.cmh.acme.com
+    username:
+    password:
+    port:
+    platform: eos
+    groups:
+        - cmh
+        - eos
+    data:
+        site: bma
+        role: leaf
+        region: NA
+        asn: 65211

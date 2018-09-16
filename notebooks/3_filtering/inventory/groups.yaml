@@ -1,0 +1,20 @@
+---
+bma:
+    data:
+        asn: 65100
+
+cmh:
+    data:
+        asn: 65200
+
+eos:
+    username: eos_auto
+    port: 8443
+
+ios:
+    username: ios_auto
+    port: 8443
+
+junos:
+    username: junos_auto
+    port: 5022
