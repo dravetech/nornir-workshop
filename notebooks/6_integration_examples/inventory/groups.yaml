@@ -1,0 +1,11 @@
+---
+bma: {}
+
+eos:
+    username: vagrant
+    password: vagrant
+    platform: eos
+
+junos:
+    username: vagrant
+    platform: junos

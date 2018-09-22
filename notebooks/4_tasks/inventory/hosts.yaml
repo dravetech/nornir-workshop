@@ -1,0 +1,56 @@
+---
+spine00.bma:
+    port: 12443
+    groups:
+        - bma
+        - eos
+
+    data:
+        site: bma
+        role: spine
+        region: EU
+
+    connection_options: # if you want to try with VMs instead of mocked data comment this section and start the boxes in the vagrant file
+        napalm:
+            platform: mock
+            extras:
+                optional_args:
+                    path: "4_tasks/mocked_data/spine00.bma"
+
+spine01.bma:
+    port: 12203
+    groups:
+        - bma
+        - junos
+    data:
+        site: bma
+        role: spine
+        region: EU
+
+    connection_options:
+        napalm:
+            platform: mock
+            extras:
+                optional_args:
+                    path: "4_tasks/mocked_data/spine01.bma"
+
+
+leaf00.bma:
+    port: 12444
+    groups:
+        - bma
+        - eos
+    data:
+        site: bma
+        role: leaf
+        region: EU
+
+leaf01.bma:
+    port: 12204
+    groups:
+        - bma
+        - junos
+    data:
+        site: bma
+        role: leaf
+        region: EU

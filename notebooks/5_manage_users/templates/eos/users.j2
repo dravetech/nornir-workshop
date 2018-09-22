@@ -1,0 +1,7 @@
+{% for user in remove_users %}
+no username {{ user }}
+{% endfor %}
+
+{% for user in desired_users %}
+username {{ user }} privilege 15 role network-admin secret sha512 $6$KxgYSk1jaMjZxxBs$1Qmn8UKx7rj3tREiXrdbhXKCC2Mw0w7LwysWCY/xjAX3QDOe0whVdSbn6O50pCsAhNAqB3pk9kY0Nw2OB/Uhz1
+{% endfor %}

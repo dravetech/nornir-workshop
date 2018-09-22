@@ -13257,7 +13257,7 @@ a.anchor-link {
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="What's-Nornir?">What's Nornir?<a class="anchor-link" href="#What's-Nornir?">&#182;</a></h2><p>Pluggable multi-threaded framework with inventory management to help operate collections of devices</p>
-<p><img src="drawings/intro.png" alt="title"></p>
+<p><img src="1_intro/img/intro.png" alt="title"></p>
 
 </div>
 </div>
@@ -13265,7 +13265,7 @@ a.anchor-link {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Why-Nornir">Why Nornir<a class="anchor-link" href="#Why-Nornir">&#182;</a></h2><p>Because it's writen in python and meant to be used with python</p>
+<h2 id="Why-Nornir">Why Nornir<a class="anchor-link" href="#Why-Nornir">&#182;</a></h2><p>Because it's written in python and meant to be used with python</p>
 
 </div>
 </div>
@@ -13411,7 +13411,7 @@ jupyter notebook notebooks/</code></pre>
 <div class="prompt input_prompt">In&nbsp;[2]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="o">!</span>cat <span class="m">1</span>/config.yaml
+<div class=" highlight hl-ipython3"><pre><span></span><span class="o">!</span>cat 1_intro/config.yaml
 </pre></div>
 
     </div>
@@ -13428,7 +13428,13 @@ jupyter notebook notebooks/</code></pre>
 
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>cat: 1/config.yaml: No such file or directory
+<pre>---
+num_workers: 20
+inventory:
+    options:
+        host_file: 1_intro/inventory/hosts.yaml
+        group_file: 1_intro/inventory/groups.yaml
+        defaults_file: 1_intro/inventory/defaults.yaml
 </pre>
 </div>
 </div>

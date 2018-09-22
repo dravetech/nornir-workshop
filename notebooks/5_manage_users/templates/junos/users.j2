@@ -1,0 +1,9 @@
+{% for user in remove_users %}
+delete system login user {{ user }}
+{% endfor %}
+
+{% for user in desired_users %}
+set system login user {{ user }} uid 2000
+set system login user {{ user }} class super-user
+{% endfor %}
+

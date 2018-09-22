@@ -1,4 +1,5 @@
 jupyter
 nbval
 pytest
--e git+git://github.com/nornir-automation/nornir.git@e3feae4108d8c85589606a99061c96a54b305ef0#egg=nornir
+flask
+-e git+git://github.com/nornir-automation/nornir.git@d106aec7868c7e604ab11b9835b06e592c5ccd18#egg=nornir
